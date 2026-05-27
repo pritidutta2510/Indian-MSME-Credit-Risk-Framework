@@ -67,3 +67,9 @@ document with upward and downward rating sensitivities.
 - LGD assumed constant at 45%; a dynamic LGD model would strengthen Part 2
 - Shadow rating framework would benefit from calibration against actual 
   CRISIL/ICRA rating outcomes
+
+---
+
+## Data Source
+UCI Machine Learning Repository — Default of Credit Card Clients  
+https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients

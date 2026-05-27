@@ -61,22 +61,6 @@ document with upward and downward rating sensitivities.
 
 ---
 
-## Project Structure
-Credit_Risk_Framework/
-├── Data/
-│   └── default of credit card clients.xls
-├── notebooks/
-│   ├── 01_Scorecard.ipynb
-│   ├── 02_Stress_Testing.ipynb
-│   └── 03_Shadow_Rating.ipynb
-└── Outputs/
-├── scored_portfolio.csv
-├── stress_results.csv
-├── enriched_portfolio.csv
-└── shadow_rating_report.txt
-
----
-
 ## Limitations and Future Work
 - Synthetic MSME features are illustrative; real deployment would require 
   RBI/SIDBI borrower-level data

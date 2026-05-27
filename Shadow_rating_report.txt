@@ -1,0 +1,87 @@
+
+SHADOW CREDIT RATING REPORT
+============================
+Fictional Entity: Pradhan MSME Lending Institution (PMLI)
+Analyst: Priti Dutta
+Date: May 27, 2026
+Rating: BB — Moderate Risk
+
+1. OVERVIEW
+-----------
+This report presents a shadow credit rating for Pradhan MSME Lending 
+Institution (PMLI), a fictional mid-sized NBFC operating across five 
+Indian regions with a diversified MSME borrower base of 6,000 accounts. 
+The rating is derived from a quantitative scorecard assessing five 
+dimensions: asset quality, portfolio concentration, stress resilience, 
+GST compliance, and risk distribution.
+
+2. RATING RATIONALE
+-------------------
+PMLI is assigned a shadow rating of BB (Moderate Risk), reflecting a 
+weighted score of 2.75 out of 5.00. The rating is 
+constrained primarily by elevated asset quality concerns and limited 
+stress resilience, partially offset by adequate portfolio diversification 
+and risk band distribution.
+
+3. DIMENSION ANALYSIS
+---------------------
+a) Asset Quality [Score: 2/5 | Weight: 30%]
+   Base default rate of 22.12% places PMLI in the 
+   moderate-to-high risk category. Approximately 27% of the portfolio 
+   falls in the High Risk band with a default rate of 47.10%, indicating 
+   meaningful tail risk concentration.
+
+b) Portfolio Concentration [Score: 4/5 | Weight: 15%]
+   Sector concentration is manageable at 29.47%, led 
+   by Retail & Trade (29.47%) and Manufacturing (25.57%). No single sector 
+   dominates excessively, reflecting reasonable diversification across 
+   Indian MSME segments.
+
+c) Stress Resilience [Score: 2/5 | Weight: 25%]
+   Under a severe stress scenario (GDP growth 1.5%, repo rate 9.0%, 
+   unemployment 12.0%), portfolio ECL rate escalates to 21.44%, 
+   representing a doubling from the base case of 8.00%. The High Risk 
+   segment PD approaches 94.20% under severe stress, indicating limited 
+   shock absorption capacity in the tail.
+
+d) GST Compliance [Score: 3/5 | Weight: 15%]
+   GST compliance stands at 68.52% across the portfolio. 
+   While compliance among Low Risk borrowers is strong at 89.5%, the 
+   High Risk segment shows only 40.1% compliance, suggesting informal 
+   operations and weaker financial discipline among vulnerable borrowers.
+
+e) Risk Distribution [Score: 4/5 | Weight: 15%]
+   30.65% of borrowers fall in the Low Risk band, with 42.35% in Medium 
+   Risk and 27% in High Risk. While the distribution is not adverse, 
+   a higher Low Risk concentration would be needed to support an 
+   investment-grade rating.
+
+4. SCENARIO ANALYSIS SUMMARY
+-----------------------------
+Scenario          | Portfolio ECL Rate | Change vs Base
+------------------|--------------------|---------------
+Base              |        8.00%       |      —
+Moderate Stress   |       11.21%       |    +3.21%
+Severe Stress     |       16.01%       |    +8.01%
+
+5. KEY RATING SENSITIVITIES
+----------------------------
+UPWARD PRESSURES (rating improvement):
+- Sustained reduction in High Risk borrower concentration below 20%
+- Improvement in GST compliance above 80% portfolio-wide
+- Base default rate declining below 15% over two consecutive periods
+
+DOWNWARD PRESSURES (rating deterioration):
+- Macro deterioration beyond severe stress assumptions
+- Sector concentration exceeding 40% in any single segment
+- High Risk PD remaining above 50% under base conditions
+
+6. CONCLUSION
+-------------
+PMLI's BB shadow rating reflects a lending institution with adequate 
+diversification but meaningful vulnerability to asset quality deterioration 
+and macro stress. The institution would benefit from tightening its 
+scorecard cutoffs to reduce High Risk originations and improving GST 
+compliance monitoring as a leading indicator of borrower financial health.
+
+Rating: BB | Outlook: Moderate Risk | Weighted Score: 2.75/5.00
